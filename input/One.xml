@@ -1,0 +1,39 @@
+<Annotations>
+	<Annotation Id="1" Name="" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="0" Incremental="0" Type="4" LineColor="65280" Visible="1" Selected="1" MarkupImagePath="" MacroName="">
+		<Attributes/>
+		<Regions>
+			<RegionAttributeHeaders/>
+			<Region Id="1" Type="0" Zoom="0.903830" Selected="1" ImageLocation="" ImageFocus="-1" Length="190.3" Area="278.5" Text="" NegativeROA="0" InputRegionId="0" Analyze="1" DisplayId="1">
+				<Attributes/>
+				<Vertices>
+					<Vertex X="314" Y="-171" Z="0"/>
+					<Vertex X="313" Y="-171" Z="0"/>
+					<Vertex X="313" Y="-168" Z="0"/>
+					<Vertex X="312" Y="-165" Z="0"/>
+					<Vertex X="311" Y="-162" Z="0"/>
+					<Vertex X="285" Y="-32" Z="0"/>
+					<Vertex X="284" Y="-27" Z="0"/>
+					<Vertex X="283" Y="-22" Z="0"/>
+					<Vertex X="281" Y="-17" Z="0"/>
+					<Vertex X="280" Y="-13" Z="0"/>
+					<Vertex X="279" Y="-10" Z="0"/>
+					<Vertex X="278" Y="-9" Z="0"/>
+					<Vertex X="277" Y="-6" Z="0"/>
+					<Vertex X="277" Y="-4" Z="0"/>
+					<Vertex X="275" Y="-2" Z="0"/>
+					<Vertex X="275" Y="-1" Z="0"/>
+					<Vertex X="275" Y="0" Z="0"/>
+					<Vertex X="274" Y="2" Z="0"/>
+					<Vertex X="274" Y="4" Z="0"/>
+					<Vertex X="274" Y="5" Z="0"/>
+					<Vertex X="273" Y="7" Z="0"/>
+					<Vertex X="272" Y="8" Z="0"/>
+					<Vertex X="272" Y="9" Z="0"/>
+					<Vertex X="272" Y="10" Z="0"/>
+					<Vertex X="271" Y="12" Z="0"/>
+				</Vertices>
+			</Region>
+		</Regions>
+		<Plots/>
+	</Annotation>
+</Annotations>
