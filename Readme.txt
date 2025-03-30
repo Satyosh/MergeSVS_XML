@@ -52,4 +52,4 @@ marge.xml
 
 
 【制作者】
-吉田聡　egetprep@gmail.com
+@satyosh　mail: egetprep@gmail.com
